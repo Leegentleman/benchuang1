@@ -1,0 +1,6 @@
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.8 (Intelligent_teaching_evaluation_system)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (Intelligent_teaching_evaluation_system)" project-jdk-type="Python SDK" />
+</project>
